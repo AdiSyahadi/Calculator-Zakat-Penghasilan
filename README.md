@@ -28,7 +28,7 @@ Instalasi dan Penggunaan
 
 1. Clone repository ini:
     ```bash
-    git clone https://github.com/username/zakat-calculator.git
+    git clone https://github.com/AdiSyahadi/Kalkulator-Zakat-Penghasilan.git
     ```
 2. Buka `index.html` di browser Anda untuk menggunakan aplikasi.
 
