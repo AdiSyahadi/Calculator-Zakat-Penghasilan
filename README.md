@@ -1,9 +1,9 @@
 
-#  Calculator Zakat Penghasilan
+#  Kalkulator Zakat Penghasilan
 
 ![Kalkulator-Zakat-Penghasilan](ss_zakat.jpg)
 
-Calculator Zakat Penghasilan adalah aplikasi web sederhana yang membantu pengguna menghitung jumlah zakat yang harus mereka bayar berdasarkan penghasilan bersih bulanan mereka dan nisab yang dihitung dari harga emas terkini. Aplikasi ini dirancang dengan antarmuka yang ramah pengguna, sehingga memudahkan pengguna dalam memasukkan data dan mendapatkan hasil perhitungan secara instan.
+Kalkulator Zakat Penghasilan adalah aplikasi web sederhana yang membantu pengguna menghitung jumlah zakat yang harus mereka bayar berdasarkan penghasilan bersih bulanan mereka dan nisab yang dihitung dari harga emas terkini. Aplikasi ini dirancang dengan antarmuka yang ramah pengguna, sehingga memudahkan pengguna dalam memasukkan data dan mendapatkan hasil perhitungan secara instan.
 
 ## Fitur Utama
 
