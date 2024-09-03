@@ -1,5 +1,5 @@
 
-#  Kalkulator Zakat Penghasilan
+#  Kalkulator Zakat Penghasilan dan Zakat Maal
 
 ![Kalkulator-Zakat-Penghasilan](zakat.jpg)
 
